@@ -1,8 +1,8 @@
-### Olá! Seja bem-vindo ao meu perfil! ✨
+### Seja bem-vindo ao meu perfil! ✨
 
 ![Banner](https://capsule-render.vercel.app/api?type=wave&color=ff79c6&height=200&section=header&fontSize=50&fontColor=282a36&animation=fadeIn)
 
-Estudante do IFCE
+# Estudante do IFCE
 
 ---
 
